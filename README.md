@@ -17,8 +17,9 @@
   
 # Algorithm Used :
     Clustering Algorithm -: K-Means Algorithm.
-    The Case Study Statement is an ideal example of clustering problem in which we can form groups/clusters of the customers based on the parameters for which 
-    the model is designed.
+    The Case Study Statement is an ideal example of clustering problem in which we can form groups/clusters 
+    of the customers based on the parameters for which the model is designed.
+    
     
 # Libraries Includes :
     Numpy,
@@ -53,7 +54,8 @@
 # Conclusion :
       
         As we can observe Customers into different clusters based on there spending scores and annual income
-        So, Marketing Business Decision can be implemented in order to increase sales of products and Customer Retention rate based on customer's Ability to spend              along with there income.
+        So, Marketing Business Decision can be implemented in order to increase sales of products and Customer Retention rate 
+        based on customer's Ability to spend along with there income.
   
   
   
