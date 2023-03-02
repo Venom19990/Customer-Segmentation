@@ -1,4 +1,4 @@
-![logo](https://github.com/Venom19990/Customer-Segmentation/blob/main/github-header-image%20(2).png)
+![logo](https://github.com/Venom19990/Customer-Segmentation/blob/main/github-header-image%20(3).png)
 
 
 # CASE STUDY / PROBLEM STATEMENT: 
