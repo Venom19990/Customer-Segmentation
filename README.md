@@ -34,4 +34,13 @@
     How to find the Ideal Number of Clusters?
   Solution : By using the Elbow-Point-Graph Method, as we observe the Graph carefully we can see that there is no sudden drop in the line from the number of cluster 
   range 4 to 6, We observe a linear decline. So, we took a business decision of having 5 clusters for our Visualisation.
-      <img align="center" alt="coding" width="800" src="https://github.com/Venom19990/Customer-Segmentation/blob/main/Screenshot%20(532).png">
+  
+  
+   <img align="center" alt="coding" width="650" src="https://github.com/Venom19990/Customer-Segmentation/blob/main/Screenshot%20(532).png">
+   
+   
+ Customers Visualisation into 5 Clusters :
+ 
+  <img align="center" alt="coding" width="650" src="https://github.com/Venom19990/Customer-Segmentation/blob/main/Screenshot%20(530).png">
+  
+  
