@@ -42,5 +42,19 @@
  Customers Visualisation into 5 Clusters :
  
   <img align="center" alt="coding" width="650" src="https://github.com/Venom19990/Customer-Segmentation/blob/main/Screenshot%20(530).png">
+                      
+        Explaination : 
+          1) Cluster 1 (BLUE) ==> Contains Customers Having LOW Annual Income with LOW Spending Score.
+          2) Cluster 2 (PURPLE) ==> Contains Customers Having LOW Annual Income with HIGH Spending Score.
+          3) Cluster 3 (RED) ==> Contains Cusomers Having AVERAGE Annual Income and Spending Score.
+          4) Cluster 4 (GREEN) ==> Contains Customers Having HIGH Annual Income with LOW Spending Score.
+          5) Cluster 5 (YELLOW) ==> Contains Customers Having HIGH Annual Income and HIGH Spending Score.
+  
+# Conclusion :
+      
+        As we can observe Customers into different clusters based on there spending scores and annual income
+        So, Marketing Business Decision can be implemented in order to increase sales of products and Customer Retention rate based on customer's Ability to spend              along with there income.
+  
+  
   
   
